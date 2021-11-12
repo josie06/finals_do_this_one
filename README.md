@@ -6,7 +6,7 @@ pip install flask
 
 pip install flask_session
 
-cd /workspace/To_do_list_App/template-python-flask
+cd /workspace/final/template-python-flask
 
 export FLASK_APP=flaskr
 
